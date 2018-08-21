@@ -1,8 +1,5 @@
 //
-// ServoEaser2MovesList.ino -- show how to send ServoEaser a list of moves
-//
-// 2011, TeamPneumo, Tod E. Kurt, http://todbot.com/blog/
-//
+// softorchid.ino
 //
 
 #include <Servo.h>
